@@ -54,4 +54,3 @@ The goal of this project is to build predictive models that can estimate the ris
   - Precision
   - Recall
   - F1 Score
-  - ROC Curve and AUC
